@@ -1,1 +1,0 @@
-# smart-city-prediction-using-R
